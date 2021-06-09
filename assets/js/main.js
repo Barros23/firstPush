@@ -5,6 +5,7 @@
     criar botao-excluir */
 
 //anexar arquivos.js
+   
     import BotaoConclui from './tarefaConcluida.js'
     import BotaoDeletar from './tarefaDeletada.js'
 
